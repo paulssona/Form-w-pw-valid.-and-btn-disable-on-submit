@@ -82,3 +82,6 @@
     background-color: #7dba00;
     outline:none;
 }
+.button:disabled {
+    background-color: #222222;
+}
